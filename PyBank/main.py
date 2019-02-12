@@ -52,7 +52,6 @@ average= round(difference/(totalmonths-1) ,2)
 
 #testing- print(average)    
   
-print(mD)
 
 #print to terminal
 print("Finacial Analyis")
